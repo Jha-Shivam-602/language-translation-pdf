@@ -1,0 +1,4 @@
+pymupdf
+deep-translator
+streamlit
+pymupdf4llm
